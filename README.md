@@ -5,7 +5,7 @@
 <h1 align="center">QCode Programming Language</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v0.5.0--alpha-9c4199?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/version-v0.6.0--alpha-9c4199?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/platform-Windows-2d2d2d?style=for-the-badge" alt="Platform">
   <img src="https://img.shields.io/badge/status-Active--Development-success?style=for-the-badge" alt="Status">
 </p>
